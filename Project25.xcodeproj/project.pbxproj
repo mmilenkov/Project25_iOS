@@ -56,9 +56,9 @@
 			children = (
 				3FFE810922CF395E00553D92 /* AppDelegate.swift */,
 				3FFE810B22CF395E00553D92 /* ViewController.swift */,
-				3FFE810D22CF395E00553D92 /* Main.storyboard */,
 				3FFE811022CF395F00553D92 /* Assets.xcassets */,
 				3FFE811222CF395F00553D92 /* LaunchScreen.storyboard */,
+				3FFE810D22CF395E00553D92 /* Main.storyboard */,
 				3FFE811522CF395F00553D92 /* Info.plist */,
 			);
 			path = Project25;
